@@ -16,5 +16,5 @@
 * **Norma** - Boas práticas.
 * **Regulamento** - Conjunto de normas.
 * **Engenharia Social** - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados indevidos do cidadão ou empresa.
-* **Compliance** - Processo de 
-
+* **Compliance** - "estar em conformidade com".
+* **compliance e direito** - Além de evitar a judicialização, permite uma melhor alocação de recursos.
