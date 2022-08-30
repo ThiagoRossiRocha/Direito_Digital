@@ -18,3 +18,4 @@
 * **Engenharia Social** - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados indevidos do cidadão ou empresa.
 * **Compliance** - "estar em conformidade com".
 * **compliance e direito** - Além de evitar a judicialização, permite uma melhor alocação de recursos.
+* **Outsourcing** - É a terceirização prática de obtenção de bens e serviços de um fornecedor externo.
