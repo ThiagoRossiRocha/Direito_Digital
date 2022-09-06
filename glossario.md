@@ -19,3 +19,9 @@
 * **Compliance** - "estar em conformidade com".
 * **compliance e direito** - Além de evitar a judicialização, permite uma melhor alocação de recursos.
 * **Outsourcing** - É a terceirização prática de obtenção de bens e serviços de um fornecedor externo.
+* **Direitos da personalidade** - Todos aqueles direitos que permitem uma pessoa realize
+* **Direito à privacidade** - Direito da pessoa de resguardar-se dos sentidos alheios, principalmente a vista e dos ouvidos dos outros. Em suma, é o direito de estar só.
+* **Direito a imagem e honra** - Uso de imagem pode ser considerado crime, como previsto no artigo 218C do CP, que considera ilícita disponibilização ou divulgação de fotos, video ou imagem de cenas de sexo, nudez ou pornografia, sem concentimento da vítima. O artigo 20 veda a exposição de imagem de alguem sem permissão, caso o uso indevido atinja sua honra, boa-fama, respeito ou se destine a fins comerciais.
+* **Direito ao Anonimato** - Livre a manifestação do pensamento, sendo vedade o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão.
+* **Direito a informação** - Prevê como direito básico do consumidor a obtenção de informação adequada sobre diferente produtos ou serviços, como especificações, incluindo os eventuais riscos que tais produtos ou serviços possam causar.
+*  
