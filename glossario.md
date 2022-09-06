@@ -19,11 +19,16 @@
 * **Compliance** - "estar em conformidade com".
 * **compliance e direito** - Além de evitar a judicialização, permite uma melhor alocação de recursos.
 * **Outsourcing** - É a terceirização prática de obtenção de bens e serviços de um fornecedor externo.
-* **Direitos da personalidade** - Todos aqueles direitos que permitem uma pessoa realize
+* **Direito da personalidade** - Todos aqueles direitos que permitem uma pessoa realize
 * **Direito à privacidade** - Direito da pessoa de resguardar-se dos sentidos alheios, principalmente a vista e dos ouvidos dos outros. Em suma, é o direito de estar só.
 * **Direito a imagem e honra** - Uso de imagem pode ser considerado crime, como previsto no artigo 218C do CP, que considera ilícita disponibilização ou divulgação de fotos, video ou imagem de cenas de sexo, nudez ou pornografia, sem concentimento da vítima. O artigo 20 veda a exposição de imagem de alguem sem permissão, caso o uso indevido atinja sua honra, boa-fama, respeito ou se destine a fins comerciais.
 * **Direito ao Anonimato** - Livre a manifestação do pensamento, sendo vedade o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão.
 * **Direito a informação** - Prevê como direito básico do consumidor a obtenção de informação adequada sobre diferente produtos ou serviços, como especificações, incluindo os eventuais riscos que tais produtos ou serviços possam causar.
 * **Direito ao Sigilo** - Refere-se aos fatos especificos que não convém ser divulgados, seja por razões pessoais, profissionais ou comerciais.
 * **Direito de Igualdade** - Significa que as necessidades de cada pessoa tem igual importancia, que essas necessidades devem constituir a base da planificação das sociedades e que os recursos devem ser utilizados, de maneira a garantir que todas as pessoas tenham as mesmas oportunidades de participação.
-* **Direito a Segurança** - direito a vida, a saude e segurança contra os riscos provocados por praticas no fornecimento de produtos e serviços considerados perigosos ou nocivos. Assegura-se proteção e amparo às pessoas, permitindo-lhes desfrutar dos demais direitos.
+* **Direito a Segurança** - Direito a vida, a saude e segurança contra os riscos provocados por praticas no fornecimento de produtos e serviços considerados perigosos ou nocivos. Assegura-se proteção e amparo às pessoas, permitindo-lhes desfrutar dos demais direitos.
+* **Código de Defesa do Consumidor** - Defesa do consumidor.
+* **Lei do E-Commerce** - Para garantir o atendimento facilitado ao consumidor no comércio eletronico, o fornecedor utiliza mecanismos de segurança eficazes para pagamento e tratamento de dados do consumidor.
+* **Dado Pessoal** - Informação relacionada a pessoa natural identificada ou identificável.
+* **Dados Pessoais Sensíveis** - Dentre os dados pessoais, há aqueles que exigem maior atenção no tratamento, os “sensíveis”, que são os que revelam origem racial ou étnica, convicções religiosas ou filosóficas, opiniões políticas...
+* 
