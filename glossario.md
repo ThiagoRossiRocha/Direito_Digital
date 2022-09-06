@@ -31,4 +31,3 @@
 * **Lei do E-Commerce** - Para garantir o atendimento facilitado ao consumidor no comércio eletronico, o fornecedor utiliza mecanismos de segurança eficazes para pagamento e tratamento de dados do consumidor.
 * **Dado Pessoal** - Informação relacionada a pessoa natural identificada ou identificável.
 * **Dados Pessoais Sensíveis** - Dentre os dados pessoais, há aqueles que exigem maior atenção no tratamento, os “sensíveis”, que são os que revelam origem racial ou étnica, convicções religiosas ou filosóficas, opiniões políticas...
-* 
