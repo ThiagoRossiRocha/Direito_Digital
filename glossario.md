@@ -2,7 +2,7 @@
 * **Assola** - arruinar ou destruir.
 * **Causa Cível** - Direito Civil é o ramo do direito que regula as **relações jurídicas das pessoas**.
 * **Código de Defesa do Consumidor** - Defesa do consumidor.
-* **compliance e direito** - Além de evitar a judicialização, permite uma melhor alocação de recursos.
+* **Compliance e direito** - Além de evitar a judicialização, permite uma melhor alocação de recursos.
 * **Compliance** - "estar em conformidade com".
 * **Dado Pessoal** - Informação relacionada a pessoa natural identificada ou identificável.
 * **Dados Pessoais Sensíveis** - Dentre os dados pessoais, há aqueles que exigem maior atenção no tratamento, os “sensíveis”, que são os que revelam origem racial ou étnica, convicções religiosas ou filosóficas, opiniões políticas...
@@ -12,7 +12,7 @@
 * **Direito a Segurança** - Direito a vida, a saude e segurança contra os riscos provocados por praticas no fornecimento de produtos e serviços considerados perigosos ou nocivos. Assegura-se proteção e amparo às pessoas, permitindo-lhes desfrutar dos demais direitos.
 * **Direito ao Anonimato** - Livre a manifestação do pensamento, sendo vedade o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão.
 * **Direito ao Sigilo** - Refere-se aos fatos especificos que não convém ser divulgados, seja por razões pessoais, profissionais ou comerciais.
-* **Direito da personalidade** - Todos aqueles direitos que permitem uma pessoa realize
+* **Direito da personalidade** - Direitos essenciais à dignidade e integridade e, independem da capacidade civil da pessoa, protegendo tudo o que lhe é próprio, honra, vida, liberdade, privacidade, intimidade, entre outros.
 * **Direito de Igualdade** - Significa que as necessidades de cada pessoa tem igual importancia, que essas necessidades devem constituir a base da planificação das sociedades e que os recursos devem ser utilizados, de maneira a garantir que todas as pessoas tenham as mesmas oportunidades de participação.
 * **Direito do Consumidor** - Área do direito que garante o direito do consumidor em relação a prestador de serviço ou empresa, protegendo o consumidor.
 * **Diretrizes** - Conjunto de normas e critérios que determinam e **direcionam o desenvolvimento** ou a **criação** de alguma coisa.
