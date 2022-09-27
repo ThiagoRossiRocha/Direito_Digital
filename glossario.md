@@ -31,8 +31,7 @@
 * Proteção de Forma  **Ativa** - Por meio do **processo**.
 * Proteção de Forma **Passiva** - Por meio de **consultorias**.
 * Sistema de **Compliance** - Sistema de gestão interno que visa manter a **integridade** de uma **organização, empresa ou instituição**, no que diz respeito à sua missão, à sua reputação, à continuidade da operação, à preservação do seu patrimônio.
-* **Documento Eletrônico** - É acessível e interpretável por meio de um equipamento eletrônico, podendo ser registrado e codificado em forma analógica ou em dígitos binários. É importante ressaltar que nem todo documento eletrônico é digital.
-Exemplos: Filme em VHS, música em fita cassete.e-commerce
-* **Documento Digital** - É um documento eletrônico caracterizado pela codificação em dígitos binários e acessado por meio de sistema computacional. Assim, todo documento digital é eletrônico.
-* **Assinatura Digital** - 
+* **Documento Eletrônico** - É acessível e interpretável por meio de um equipamento eletrônico, podendo ser registrado e codificado em forma analógica ou em dígitos binários. É importante ressaltar que nem todo documento eletrônico é digital. Exemplos: Filme em VHS, música em fita cassete.
+* **Documento Digital** - É um documento eletrônico caracterizado pela codificação em dígitos binários e acessado por meio de sistema computacional. Assim, todo documento digital é eletrônico. Exemplos: Texto em pdf, planilha de cálculo em Microsoft Excel, áudio em MP3.
+* **Assinatura Digital** - A Assinatura Digital equivale a uma assinatura de próprio punho. É uma tecnologia que utiliza a criptografia e vincula o certificado digital ao documento eletrônico que está sendo assinado. Assim, dá garantias de integridade e autenticidade. Suas vantagens são de reduzir custos, maior agilidade, simplificação, segurança e mobilidade. Pode ser aplicada aos mais diversos tipos de documentos eletrônicos como por exemplo: **contratos, procurações, laudos, e-mails, certificados, formulários web, relatórios, imagens, mandatos, notificações, balanços, declarações, petições, resultados de exames, prontuários médicos, propostas e apólices de seguros e arquivos eletrônicos transferidos entre empresas (EDI)**.
 * **Certificação Digital** - 
