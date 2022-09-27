@@ -31,3 +31,8 @@
 * Proteção de Forma  **Ativa** - Por meio do **processo**.
 * Proteção de Forma **Passiva** - Por meio de **consultorias**.
 * Sistema de **Compliance** - Sistema de gestão interno que visa manter a **integridade** de uma **organização, empresa ou instituição**, no que diz respeito à sua missão, à sua reputação, à continuidade da operação, à preservação do seu patrimônio.
+* **Documento Eletrônico** - É acessível e interpretável por meio de um equipamento eletrônico, podendo ser registrado e codificado em forma analógica ou em dígitos binários. É importante ressaltar que nem todo documento eletrônico é digital.
+Exemplos: Filme em VHS, música em fita cassete.e-commerce
+* **Documento Digital** - É um documento eletrônico caracterizado pela codificação em dígitos binários e acessado por meio de sistema computacional. Assim, todo documento digital é eletrônico.
+* **Assinatura Digital** - 
+* **Certificação Digital** - 
