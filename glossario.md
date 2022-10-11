@@ -36,4 +36,18 @@
 * **Assinatura Digital** - A Assinatura Digital equivale a uma assinatura de próprio punho. É uma tecnologia que utiliza a criptografia e vincula o certificado digital ao documento eletrônico que está sendo assinado. Assim, dá garantias de integridade e autenticidade. Suas vantagens são de reduzir custos, maior agilidade, simplificação, segurança e mobilidade. Pode ser aplicada aos mais diversos tipos de documentos eletrônicos como por exemplo: **contratos, procurações, laudos, e-mails, certificados, formulários web, relatórios, imagens, mandatos, notificações, balanços, declarações, petições, resultados de exames, prontuários médicos, propostas e apólices de seguros e arquivos eletrônicos transferidos entre empresas (EDI)**. Os principais algoritimos são MD5, SHA, ...
 * **Certificação Digital** - É a identidade eletrônica de uma pessoa ou empresa. Ele funciona como uma carteira de identificação virtual e permite assinar documentos à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel, mas sem precisar reconhecer firma em cartório. É utilizado por meio da internet em funções como: **Receita Federal por meio do Portal e-CAC, INSS e as juntas comerciais**. Tem vantagens de segurança, comodidade e agilidade. Uso de criptografia.
 * **Criptografia Simétrica** -  Utiliza uma chave única para cifrar e decifrar a mensagem. Nesse caso o segredo é compartilhado.
-* **Criptografia Assimétrica** - Utiliza um par de chaves: uma chave pública e outra privada que se relacionam por meio de um algoritmo.  O que for criptografado pelo conjunto dessas duas chaves só é decriptografado quando ocorre novamente o match.  
+* **Criptografia Assimétrica** - Utiliza um par de chaves: uma chave pública e outra privada que se relacionam por meio de um algoritmo.  O que for criptografado pelo conjunto dessas duas chaves só é decriptografado quando ocorre novamente o match.
+* **Licença de Software** - Documento que define os limites de uso que um usuário pode ter em relação a um produto de terceiros. funciona como um contrato de permissão de uso, ou aquisição, entre o fornecedor, tutor por direito autoral daquele conteúdo, e a empresa que busca utilizá-lo em processos internos.
+* **Software Proprietário** - 
+* **Software de Domínio Público** - 
+* **Adware** - Uma forma de malware que se esconde nos dispositivos e exibe anúncios indesejados, podendo monitorar o comportamento online de forma que possa exibir anúncios específicos.
+* **Freeware** - Softwares protegidos por direitos autorais, mas que estão disponíveis sem nenhum custo para uso ilimitado podendo ser baixado e instalado por qualquer pessoa.
+* **Shareware** - Tipos de software comercial distribuído gratuitamente aos usuários, seja em um formato limitado ou como uma avaliação, que expira após um determinado número de dias. 
+* **Software de código aberto** -  Tipo de software que tem seu o seu código fonte disponibilizado e licenciado com uma licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade.
+* **General Public License (GNU)** - 
+* **GNU FDL** - 
+* **GNU LGPL** - 
+* **GNU AGPL** - 
+* **Licença livre** - 
+* **Copyleft** - 
+* **Principais licenças quando um repositório é criado no GitHub** - 
