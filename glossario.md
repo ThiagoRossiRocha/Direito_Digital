@@ -38,16 +38,16 @@
 * **Criptografia Simétrica** -  Utiliza uma chave única para cifrar e decifrar a mensagem. Nesse caso o segredo é compartilhado.
 * **Criptografia Assimétrica** - Utiliza um par de chaves: uma chave pública e outra privada que se relacionam por meio de um algoritmo.  O que for criptografado pelo conjunto dessas duas chaves só é decriptografado quando ocorre novamente o match.
 * **Licença de Software** - Documento que define os limites de uso que um usuário pode ter em relação a um produto de terceiros. funciona como um contrato de permissão de uso, ou aquisição, entre o fornecedor, tutor por direito autoral daquele conteúdo, e a empresa que busca utilizá-lo em processos internos.
-* **Software Proprietário** - 
-* **Software de Domínio Público** - 
+* **Software Proprietário** - É um software para computadores que é licenciado com direitos exclusivos para o produtor.
+* **Software de Domínio Público** - É um software cujo autor renunciou aos respetivos direitos, e que portanto pode ser copiado, distribuído e transformado livremente.
 * **Adware** - Uma forma de malware que se esconde nos dispositivos e exibe anúncios indesejados, podendo monitorar o comportamento online de forma que possa exibir anúncios específicos.
 * **Freeware** - Softwares protegidos por direitos autorais, mas que estão disponíveis sem nenhum custo para uso ilimitado podendo ser baixado e instalado por qualquer pessoa.
 * **Shareware** - Tipos de software comercial distribuído gratuitamente aos usuários, seja em um formato limitado ou como uma avaliação, que expira após um determinado número de dias. 
 * **Software de código aberto** -  Tipo de software que tem seu o seu código fonte disponibilizado e licenciado com uma licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade.
-* **General Public License (GNU)** - 
-* **GNU FDL** - 
-* **GNU LGPL** - 
-* **GNU AGPL** - 
-* **Licença livre** - 
-* **Copyleft** - 
-* **Principais licenças quando um repositório é criado no GitHub** - 
+* **General Public License (GNU)** - É uma licença copyleft gratuita usada principalmente para software.
+* **GNU FDL** - É uma licença para documentos e textos livres publicada pela Free Software Foundation. A GFDL permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida.
+* **GNU LGPL** - É uma licença de software livre aprovada pela FSF, onde permite a associação com programas que não estejam sob as licenças GPL ou LGPL.
+* **GNU AGPL** - É uma licença de software livre publicada pela FSF, tendo o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles os quais você não tem acesso direto ao binário/código-objeto.
+* **Licença livre** - Toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar e gozar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
+* **Copyleft** - Método geral para tornar um programa (ou outra obra) livre e exigir que todas as versões modificadas e extensões do programa também sejam livres.
+* **Principais licenças quando um repositório é criado no GitHub** - Licença Academic, Licença do Apache, Licença artística, Boost Software License, Licença Completa de três cláusulas do BSD, Família de licenças do Creative Commons	cc, Licença Pública do Eclipse, Licença Pública da União Europeia, Licença Pública Geral do LGNU Affero, Família de Licenças Públicas Gerais do GNU, Família de Licenças Públicas Gerais Menores do GNU, Licença Pública da Microsoft, Licença do PostgreSQL.
