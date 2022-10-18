@@ -44,7 +44,7 @@
 * **Freeware** - Softwares protegidos por direitos autorais, mas que estão disponíveis sem nenhum custo para uso ilimitado podendo ser baixado e instalado por qualquer pessoa.
 * **Shareware** - Tipos de software comercial distribuído gratuitamente aos usuários, seja em um formato limitado ou como uma avaliação, que expira após um determinado número de dias. 
 * **Software de código aberto** -  Tipo de software que tem seu o seu código fonte disponibilizado e licenciado com uma licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade.
-* **General Public License (GNU)** - É uma licença copyleft gratuita usada principalmente para software.
+* **General Public License (GNU)** - É uma licença copyleft gratuita usada principalmente para software. Se baseia em 4 liberdades: -Executar em qualquer propósito, -Estudar/adaptar, -Redistribuir, -Aperfeiçoar. 
 * **GNU FDL** - É uma licença para documentos e textos livres publicada pela Free Software Foundation. A GFDL permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida.
 * **GNU LGPL** - É uma licença de software livre aprovada pela FSF, onde permite a associação com programas que não estejam sob as licenças GPL ou LGPL.
 * **GNU AGPL** - É uma licença de software livre publicada pela FSF, tendo o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles os quais você não tem acesso direto ao binário/código-objeto.
