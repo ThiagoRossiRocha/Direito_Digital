@@ -22,6 +22,7 @@
 * **Lei do E-Commerce** - Para garantir o atendimento facilitado ao consumidor no comércio eletronico, o fornecedor utiliza mecanismos de segurança eficazes para pagamento e tratamento de dados do consumidor.
 * **Lei Geral de Proteção de Dados** - Proteção e garantias de dados/informação de pessoas em organizações. 
 * **Lei** - Regra obrigatório.
+* **Creative Commons** - Os licenciados têm o direito de copiar, distribuir, exibir e executar a obra e fazer trabalhos derivados dela, conquanto que deem créditos devidos ao autor ou licenciador, na maneira especificada por estes.
 * **Marco Civil da Internet** - Norma legal que disciplina o uso da Internet no Brasil por meio da previsão de princípios, garantias, direitos e deveres para quem faz uso da rede.
 * **Norma** - Boas práticas.
 * **Outsourcing** - É a terceirização prática de obtenção de bens e serviços de um fornecedor externo.
